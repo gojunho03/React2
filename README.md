@@ -7,4 +7,4 @@ hard link  symbolic link(soft link)
 next.js page.tsx 및 layout.tsx
 
 2026-09-16
-layout과 template 차이
+layout과 template 차이 Organizing your project(프로젝트 구성)
