@@ -15,3 +15,5 @@ next.js page.tsx 및 layout.tsx
 layout과 template 차이 Organizing your project(프로젝트 구성)
 
 2026-9-23 4주차
+
+link component 사용법 Creating a nested route 중첩 라우트 만들기
