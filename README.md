@@ -17,3 +17,9 @@ layout과 template 차이 Organizing your project(프로젝트 구성)
 2026-9-23 4주차
 
 link component 사용법 Creating a nested route 중첩 라우트 만들기
+
+2026-9-30 5주차
+
+Route 방식 비교 
+React 라우팅 방식 수동
+Next.js 라우팅 방식 자동
