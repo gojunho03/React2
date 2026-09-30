@@ -23,3 +23,5 @@ link component 사용법 Creating a nested route 중첩 라우트 만들기
 Route 방식 비교 
 React 라우팅 방식 수동
 Next.js 라우팅 방식 자동
+
+프리패치 스트리밍
