@@ -23,5 +23,9 @@ link component 사용법 Creating a nested route 중첩 라우트 만들기
 Route 방식 비교 
 React 라우팅 방식 수동
 Next.js 라우팅 방식 자동
-
 프리패치 스트리밍
+
+2026-10-07 6주차
+
+await이 없어도 async를 붙여 두는 이유
+일관성 유지 확장성 React Server Component 호환성
