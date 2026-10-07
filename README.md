@@ -29,3 +29,4 @@ Next.js 라우팅 방식 자동
 
 await이 없어도 async를 붙여 두는 이유
 일관성 유지 확장성 React Server Component 호환성
+Hydration 동적 상호작용이 가능하도록 만드는 과정
