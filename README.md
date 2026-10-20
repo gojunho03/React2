@@ -30,3 +30,10 @@ Next.js 라우팅 방식 자동
 await이 없어도 async를 붙여 두는 이유
 일관성 유지 확장성 React Server Component 호환성
 Hydration 동적 상호작용이 가능하도록 만드는 과정
+
+2026-10-14 7주차
+
+server 및 client component
+next.js server에서 react의 api를 사용하여 렌더링 조정
+react server component payload(RSC)
+RSC 페이로드는 렌더링된 react server components 트리플 직렬화하여 표현한 컴팩트한 형태
