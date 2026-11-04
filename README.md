@@ -38,6 +38,10 @@ next.js server에서 react의 api를 사용하여 렌더링 조정
 react server component payload(RSC)
 RSC 페이로드는 렌더링된 react server components 트리플 직렬화하여 표현한 컴팩트한 형태
 
-2026-10-28 8주차
+2026-10-28 9주차
 
 큐의 구현 방법에 관해 설명하고, 코드를 작성할 수 있다.
+
+2026-11-04 10주차
+
+서버 및 클라이언트 컴포넌트 인터리빙
