@@ -45,3 +45,8 @@ RSC 페이로드는 렌더링된 react server components 트리플 직렬화하�
 2026-11-04 10주차
 
 서버 및 클라이언트 컴포넌트 인터리빙
+
+2026-11-11 11주차
+
+context provider createcontext 함수 호출시 react context 객체 하나 생성
+포함된 속성은 themecontext.provider, themecontext.consumer
