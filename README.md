@@ -50,3 +50,4 @@ RSC 페이로드는 렌더링된 react server components 트리플 직렬화하�
 
 context provider createcontext 함수 호출시 react context 객체 하나 생성
 포함된 속성은 themecontext.provider, themecontext.consumer
+외부(서드파티) client 외부 component 사용시 client component 래핑하여 예상 작동하는지 확인 가능
